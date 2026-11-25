@@ -1,6 +1,6 @@
 # Write a Python program to count the number of digits in a given integer without using len() or converting it into a string.
 
-n = 1211
+n = 12112
 count = 0
 
 while n > 0:
