@@ -1,6 +1,6 @@
 # Write a Python program to reverse a number without converting it into a string.
 
-n = 123
+n = 12345
 rev = 0
 
 while n > 0:
